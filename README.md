@@ -103,8 +103,8 @@
 ---
 ### d. _현업 종사자의 인터뷰_  
 
-  <img src="https://github.com/user-attachments/assets/5f2a8170-9176-4f79-946c-07cf655d29ee" alt="5" width="500" height="450" />
-<img src="https://github.com/user-attachments/assets/9c97b7d7-6886-4923-beef-2fc0280350e4" alt="6" width="500" height="450" />
+  <img src="https://github.com/user-attachments/assets/5f2a8170-9176-4f79-946c-07cf655d29ee" alt="5" width="400" height="450" />
+<img src="https://github.com/user-attachments/assets/9c97b7d7-6886-4923-beef-2fc0280350e4" alt="6" width="400" height="450" />
 
 
 
