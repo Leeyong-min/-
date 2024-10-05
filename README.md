@@ -22,7 +22,8 @@
 ### 1. LG에너지솔루션  
 
 <img src="https://github.com/user-attachments/assets/ed01eb36-c9ef-4363-ba14-9870fc3770ad" alt="dd" width="350" height="250" />
-<img src="https://github.com/user-attachments/assets/c21f111e-38c5-42b0-a958-26954266536d" alt="캡처" width="350" height="150" />  
+<img src="https://github.com/user-attachments/assets/c21f111e-38c5-42b0-a958-26954266536d" alt="캡처" width="350" height="150" />    
+
 
 
 * 담당업무 : FMEA(Failure Mode and Effect Analysis)  
@@ -33,7 +34,8 @@
 ### 2. 삼성SDI
 
 <img src="https://github.com/user-attachments/assets/8df421fb-2ffa-403d-9daa-7cfd765d7b80" alt="a" width="350" height="400" />
-<img src="https://github.com/user-attachments/assets/69c12dad-8888-4ffc-9e84-5539b20fbd58" alt="b" width="300" height="180" />   
+<img src="https://github.com/user-attachments/assets/69c12dad-8888-4ffc-9e84-5539b20fbd58" alt="b" width="300" height="180" />    
+
 
 * 담당업무 : 생산/설비기술 - 라인 설비/설계, 설비 제작 및 검수 관리  
 * 세부 요구사항 : 산업공학/수학/물리 등 관련 전공, 분석 Tool과 수학/통계관련 지식을 활용해 다양한 품질 Data에 대한 분석역량
@@ -42,8 +44,9 @@
 
 ### 3. SK On
 
-<img src="https://github.com/user-attachments/assets/7e45be3c-4771-4964-8ad6-89ec48958a06" alt="e" width="350" height="250" />
-<img src="https://github.com/user-attachments/assets/4186964c-721d-4465-9f46-db3cb74c1da6" alt="c" width="350" height="150" />  
+<img src="https://github.com/user-attachments/assets/7e45be3c-4771-4964-8ad6-89ec48958a06" alt="e" width="450" height="250" />
+<img src="https://github.com/user-attachments/assets/4186964c-721d-4465-9f46-db3cb74c1da6" alt="c" width="350" height="150" />    
+
 
 * 담당업무 : 생산공장의 공정설계/운전/생산관리  
 * 세부 요구사항 : 산업공학/수학/물리 등 관련 전공, 분석 Tool과 수학/통계관련 지식을 활용해 다양한 품질 Data에 대한 분석역량
