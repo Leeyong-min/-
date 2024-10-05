@@ -54,13 +54,12 @@
 
 ### 4. 현대모비스
 
-<img src="https://github.com/user-attachments/assets/81124afe-96d4-4e6b-bd22-b82835ec54a2" alt="f" width="450" height="250" />
+<img src="https://github.com/user-attachments/assets/81124afe-96d4-4e6b-bd22-b82835ec54a2" alt="f" width="400" height="250" />
 <img src="https://github.com/user-attachments/assets/772dba81-3ab5-45f1-98f5-d61390f9a832" alt="g" width="350" height="150" />    
 
   
 * 담당업무 : 친환경 전기차(EV, PHEV, HEV) 주요 구성 품목인 배터리시스템(BSA)의 생산기술 업무 담당
-* 세부 업무 내용 : 배터리시스템 생산라인 구축  
-  ** 투자 기획, 수주 지원, 공정 설계, 라인 구축, 협력사 기술지원
+* 세부 업무 내용 : 배터리시스템 생산라인 구축  ** 투자 기획, 수주 지원, 공정 설계, 라인 구축, 협력사 기술지원
   ** 신제품 제조 공법 분석 및 적용
   ** 설비 제작 및 검증을 통한 제조라인 구축/양산성 확보
 * 자격요건 : 4년제 학사 이상, 군필(병역필), 공인 영어성적보유자(TOEIC, TOEIC SPEAKING, OPIC, TEPS, G-TELP)
