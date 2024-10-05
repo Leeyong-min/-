@@ -21,4 +21,4 @@
 
 ### 1. LG에너지솔루션  
 
-!(https://ibb.co/x1XXR9D))
+![캡처](https://github.com/user-attachments/assets/1f58cbe2-0a84-4b7e-8e43-ccaa0551ccde)
