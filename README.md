@@ -21,4 +21,4 @@
 
 ### 1. LG에너지솔루션  
 
-![이미지 대체 텍스트](https://ibb.co/x1XXR9D))
+!(https://ibb.co/x1XXR9D))
