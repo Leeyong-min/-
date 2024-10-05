@@ -21,5 +21,9 @@
 
 ### 1. LG에너지솔루션  
 
-<img src="https://github.com/user-attachments/assets/1f58cbe2-0a84-4b7e-8e43-ccaa0551ccde" alt="캡처" width="350" height="250" />
-<img src="https://github.com/user-attachments/assets/8140a73f-8eae-4c10-b1e3-d2d60ced98ff" alt="dd" width="350" height="150" />
+<img src="https://github.com/user-attachments/assets/ed01eb36-c9ef-4363-ba14-9870fc3770ad" alt="dd" width="350" height="250" />
+<img src="https://github.com/user-attachments/assets/c21f111e-38c5-42b0-a958-26954266536d" alt="캡처" width="350" height="150" />
+
+선발규모 : 
+세부 요구사항 : 
+취업동향 : 
