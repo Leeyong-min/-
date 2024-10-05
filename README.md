@@ -21,8 +21,5 @@
 
 ### 1. LG에너지솔루션  
 
-<img src="https://github.com/user-attachments/assets/1f58cbe2-0a84-4b7e-8e43-ccaa0551ccde" alt="캡처" width="350" height="250" />  
-
-최근 채용공고에는 상시인재 채용이 등록되어 있음  
- 
+<img src="https://github.com/user-attachments/assets/1f58cbe2-0a84-4b7e-8e43-ccaa0551ccde" alt="캡처" width="350" height="250" />
 <img src="https://github.com/user-attachments/assets/8140a73f-8eae-4c10-b1e3-d2d60ced98ff" alt="dd" width="350" height="150" />
