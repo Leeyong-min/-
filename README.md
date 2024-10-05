@@ -28,5 +28,38 @@
 * 담당업무 : FMEA(Failure Mode and Effect Analysis)  
 * 세부 요구사항 :   Battery 관련 전공 공부, (전기화학, 주요 Battery 소재)  
 * 자격요건 : 4년제 학사 이상, 군필, 영어회화자격 or 공인영어자격(Opic IH 이상 혹은 토익speaking 160점 이상)  
-* 우대사항 : 고객대응이 필요한 업무도 있으며, 어학능력은 장점이자 이점. Battery 완제품에 대한 제작, 평가 경험  
+* 우대사항 : 고객대응이 필요한 업무도 있으며, 어학능력은 장점이자 이점. Battery 완제품에 대한 제작, 평가 경험    
+
+### 2. 삼성SDI
+
+<img src="https://github.com/user-attachments/assets/8df421fb-2ffa-403d-9daa-7cfd765d7b80" alt="a" width="350" height="250" />
+<img src="https://github.com/user-attachments/assets/69c12dad-8888-4ffc-9e84-5539b20fbd58" alt="b" width="350" height="150" />   
+
+* 담당업무 : FMEA(Failure Mode and Effect Analysis)  
+* 세부 요구사항 :   Battery 관련 전공 공부, (전기화학, 주요 Battery 소재)  
+* 자격요건 : 4년제 학사 이상, 군필, 영어회화자격 or 공인영어자격(Opic IH 이상 혹은 토익speaking 160점 이상)  
+* 우대사항 : 고객대응이 필요한 업무도 있으며, 어학능력은 장점이자 이점. Battery 완제품에 대한 제작, 평가 경험    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
