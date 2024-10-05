@@ -80,18 +80,14 @@
 ### c. _내가 준비해야할 기술, 능력_  
 
 * 혼자 수행해야 할 것  
-  <img src="https://github.com/user-attachments/assets/cf3b7268-16f4-49e6-93f0-ce68c4e6da03" alt="2" width="200" height="90" />  
+  <img src="https://github.com/user-attachments/assets/cf3b7268-16f4-49e6-93f0-ce68c4e6da03" alt="2" width="200" height="90" />         <img src="https://github.com/user-attachments/assets/f25a8cc4-7cfe-4ba0-846e-1e2d691131d3" alt="1" width="250" height="100" />  
+  <img src="https://github.com/user-attachments/assets/6895f51d-10fc-4150-aba8-c78c127e77e7" alt="3" width="250" height="250" />  
   영어회화능력 : 공인영어자격증(Opic IH 이상, TOEIC SPEAKING 160점 이상)
-   
-  <img src="https://github.com/user-attachments/assets/f25a8cc4-7cfe-4ba0-846e-1e2d691131d3" alt="1" width="250" height="100" />
-  <img src="https://github.com/user-attachments/assets/6895f51d-10fc-4150-aba8-c78c127e77e7" alt="3" width="250" height="250" />   
-  2차전지 관련 교욱듣기 :  
+     2차전지 관련 교욱듣기 :  
   * 배터리 세미나(Inter battery)  
   * 2차전지 엔지니어 직무역량 교육  
-  * 코멘토 2차전지 직무 부트캠프
-    
-  <img src="https://github.com/user-attachments/assets/72a9da61-34bd-4aa9-bf21-eff527d9fd61" alt="4" width="200" height="80" />   
-  자격증 준비 : CAD(CATIA, AutoCAD)
+  * 코멘토 2차전지 직무 부트캠프  
+      자격증 준비 : CAD(CATIA, AutoCAD)
 
 * 팀으로 수행해야 할 것
   + 
