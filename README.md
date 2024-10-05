@@ -32,8 +32,8 @@
 
 ### 2. 삼성SDI
 
-<img src="https://github.com/user-attachments/assets/8df421fb-2ffa-403d-9daa-7cfd765d7b80" alt="a" width="350" height="250" />
-<img src="https://github.com/user-attachments/assets/69c12dad-8888-4ffc-9e84-5539b20fbd58" alt="b" width="350" height="150" />   
+<img src="https://github.com/user-attachments/assets/8df421fb-2ffa-403d-9daa-7cfd765d7b80" alt="a" width="350" height="450" />
+<img src="https://github.com/user-attachments/assets/69c12dad-8888-4ffc-9e84-5539b20fbd58" alt="b" width="300" height="150" />   
 
 * 담당업무 : FMEA(Failure Mode and Effect Analysis)  
 * 세부 요구사항 :   Battery 관련 전공 공부, (전기화학, 주요 Battery 소재)  
