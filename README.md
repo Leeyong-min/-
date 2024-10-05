@@ -66,20 +66,13 @@
 * 자격요건 : 4년제 학사 이상, 군필(병역필), 공인 영어성적보유자(TOEIC, TOEIC SPEAKING, OPIC, TEPS, G-TELP)
 * 우대사항 : CAD(CATIA, AutoCAD) 활용 가능자
 
-### 5. 에코프로비엠
+### 5. 에코프로비엠(제조기술 1,2팀)
 
 <img src="https://github.com/user-attachments/assets/da8d271e-6186-4472-8fab-ad7850ce9aec" alt="h" width="400" height="250" />
-  
-
-  
-* 담당업무 : 친환경 전기차(EV, PHEV, HEV) 주요 구성 품목인 배터리시스템(BSA)의 생산기술 업무 담당
-* 세부 업무 내용 : 배터리시스템 생산라인 구축  
-  + 투자 기획, 수주 지원, 공정 설계, 라인 구축, 협력사 기술지원  
-  + 신제품 제조 공법 분석 및 적용  
-  + 설비 제작 및 검증을 통한 제조라인 구축/양산성 확보  
-* 자격요건 : 4년제 학사 이상, 군필(병역필), 공인 영어성적보유자(TOEIC, TOEIC SPEAKING, OPIC, TEPS, G-TELP)
-* 우대사항 : CAD(CATIA, AutoCAD) 활용 가능자
-
+    
+* 담당업무 : 양산 품질 관리, 양산 관리 및 시운전, 제조기술 담당  
+* 자격요건 : 4년제 학사 이상, 군필(병역필), 공인 영어성적보유자(TOEIC, TOEIC SPEAKING, OPIC, TEPS, G-TELP)  
+* 우대사항 : 동종업 또는 분체, 소성 업무 경험 및 자격 보유자, 해외 근무 가능자
 
 
 
