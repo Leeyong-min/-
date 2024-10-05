@@ -32,13 +32,13 @@
 
 ### 2. 삼성SDI
 
-<img src="https://github.com/user-attachments/assets/8df421fb-2ffa-403d-9daa-7cfd765d7b80" alt="a" width="350" height="450" />
-<img src="https://github.com/user-attachments/assets/69c12dad-8888-4ffc-9e84-5539b20fbd58" alt="b" width="300" height="150" />   
+<img src="https://github.com/user-attachments/assets/8df421fb-2ffa-403d-9daa-7cfd765d7b80" alt="a" width="350" height="400" />
+<img src="https://github.com/user-attachments/assets/69c12dad-8888-4ffc-9e84-5539b20fbd58" alt="b" width="300" height="180" />   
 
-* 담당업무 : FMEA(Failure Mode and Effect Analysis)  
-* 세부 요구사항 :   Battery 관련 전공 공부, (전기화학, 주요 Battery 소재)  
+* 담당업무 : 생산/설비기술 - 라인 설비/설계, 설비 제작 및 검수 관리  
+* 세부 요구사항 : 산업공학/수학/물리 등 관련 전공, 분석 Tool과 수학/통계관련 지식을 활용해 다양한 품질 Data에 대한 분석역량
 * 자격요건 : 4년제 학사 이상, 군필, 영어회화자격 or 공인영어자격(Opic IH 이상 혹은 토익speaking 160점 이상)  
-* 우대사항 : 고객대응이 필요한 업무도 있으며, 어학능력은 장점이자 이점. Battery 완제품에 대한 제작, 평가 경험    
+* 우대사항 : 고객 및 유관 부서와의 원활한 커뮤니케이션 능력, 마찬가지로 어학능력은 장점이자 이점. 
 
 
 
