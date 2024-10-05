@@ -40,11 +40,15 @@
 * 자격요건 : 4년제 학사 이상, 군필, 영어회화자격 or 공인영어자격(Opic IH 이상 혹은 토익speaking 160점 이상)  
 * 우대사항 : 고객 및 유관 부서와의 원활한 커뮤니케이션 능력, 마찬가지로 어학능력은 장점이자 이점. 
 
+### 3. SK On
 
+<img src="https://github.com/user-attachments/assets/7e45be3c-4771-4964-8ad6-89ec48958a06" alt="e" width="350" height="250" />
+<img src="https://github.com/user-attachments/assets/4186964c-721d-4465-9f46-db3cb74c1da6" alt="c" width="350" height="150" />  
 
-
-
-
+* 담당업무 : 생산공장의 공정설계/운전/생산관리  
+* 세부 요구사항 : 산업공학/수학/물리 등 관련 전공, 분석 Tool과 수학/통계관련 지식을 활용해 다양한 품질 Data에 대한 분석역량
+* 자격요건 : 4년제 학사 이상, 군필(병역필)
+* 우대사항 : 영어회화자격 or 공인영어자격(Opic IH 이상 혹은 토익speaking 160점 이상)
 
 
 
