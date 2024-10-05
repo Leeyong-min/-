@@ -22,4 +22,4 @@
 ### 1. LG에너지솔루션  
 
 
-<img src="https://github.com/user-attachments/assets/1f58cbe2-0a84-4b7e-8e43-ccaa0551ccde" alt="캡처" width="250" height="150" />
+<img src="https://github.com/user-attachments/assets/1f58cbe2-0a84-4b7e-8e43-ccaa0551ccde" alt="캡처" width="350" height="250" />
