@@ -19,7 +19,7 @@
 
 ### b._해당기업의 요구사항 조사_
 
-### 1. LG에너지솔루션  
+### 1. LG에너지솔루션(생산기술_원통형Cell)  
 
 <img src="https://github.com/user-attachments/assets/ed01eb36-c9ef-4363-ba14-9870fc3770ad" alt="dd" width="350" height="250" />
 <img src="https://github.com/user-attachments/assets/c21f111e-38c5-42b0-a958-26954266536d" alt="캡처" width="350" height="150" />    
@@ -29,7 +29,7 @@
 * 자격요건 : 4년제 학사 이상, 군필, 영어회화자격 or 공인영어자격(Opic IH 이상 혹은 토익speaking 160점 이상)  
 * 우대사항 : 고객대응이 필요한 업무도 있으며, 어학능력은 장점이자 이점. Battery 완제품에 대한 제작, 평가 경험    
 
-### 2. 삼성SDI
+### 2. 삼성SDI(생산기술 및 품질)
 
 <img src="https://github.com/user-attachments/assets/8df421fb-2ffa-403d-9daa-7cfd765d7b80" alt="a" width="350" height="400" />
 <img src="https://github.com/user-attachments/assets/69c12dad-8888-4ffc-9e84-5539b20fbd58" alt="b" width="300" height="180" />    
@@ -40,7 +40,7 @@
 * 자격요건 : 4년제 학사 이상, 군필, 영어회화자격 or 공인영어자격(Opic IH 이상 혹은 토익speaking 160점 이상)  
 * 우대사항 : 고객 및 유관 부서와의 원활한 커뮤니케이션 능력, 마찬가지로 어학능력은 장점이자 이점. 
 
-### 3. SK On
+### 3. SK On(생산.공정 엔지니어)
 
 <img src="https://github.com/user-attachments/assets/7e45be3c-4771-4964-8ad6-89ec48958a06" alt="e" width="450" height="250" />
 <img src="https://github.com/user-attachments/assets/4186964c-721d-4465-9f46-db3cb74c1da6" alt="c" width="350" height="150" />    
@@ -52,16 +52,17 @@
 * 우대사항 : 영어회화자격 or 공인영어자격(Opic IH 이상 혹은 토익speaking 160점 이상)
 
 
-### 4. 현대모비스
+### 4. 현대모비스(생산기술_배터리)
 
 <img src="https://github.com/user-attachments/assets/81124afe-96d4-4e6b-bd22-b82835ec54a2" alt="f" width="400" height="250" />
 <img src="https://github.com/user-attachments/assets/772dba81-3ab5-45f1-98f5-d61390f9a832" alt="g" width="350" height="150" />    
 
   
 * 담당업무 : 친환경 전기차(EV, PHEV, HEV) 주요 구성 품목인 배터리시스템(BSA)의 생산기술 업무 담당
-* 세부 업무 내용 : 배터리시스템 생산라인 구축  ** 투자 기획, 수주 지원, 공정 설계, 라인 구축, 협력사 기술지원
-  ** 신제품 제조 공법 분석 및 적용
-  ** 설비 제작 및 검증을 통한 제조라인 구축/양산성 확보
+* 세부 업무 내용 : 배터리시스템 생산라인 구축
+    ** 투자 기획, 수주 지원, 공정 설계, 라인 구축, 협력사 기술지원
+    ** 신제품 제조 공법 분석 및 적용
+    ** 설비 제작 및 검증을 통한 제조라인 구축/양산성 확보
 * 자격요건 : 4년제 학사 이상, 군필(병역필), 공인 영어성적보유자(TOEIC, TOEIC SPEAKING, OPIC, TEPS, G-TELP)
 * 우대사항 : CAD(CATIA, AutoCAD) 활용 가능자
 
