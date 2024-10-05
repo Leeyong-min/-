@@ -82,7 +82,8 @@
 * 혼자 수행해야 할 것  
   <img src="https://github.com/user-attachments/assets/cf3b7268-16f4-49e6-93f0-ce68c4e6da03" alt="2" width="400" height="250" />  
  영어회화능력 : 공인영어자격증(Opic IH 이상, TOEIC SPEAKING 160점 이상)  
-  <img src="https://github.com/user-attachments/assets/f25a8cc4-7cfe-4ba0-846e-1e2d691131d3" alt="1" width="400" height="250" />    
+  <img src="https://github.com/user-attachments/assets/f25a8cc4-7cfe-4ba0-846e-1e2d691131d3" alt="1" width="400" height="250" />
+  <img src="https://github.com/user-attachments/assets/6895f51d-10fc-4150-aba8-c78c127e77e7" alt="3" width="400" height="250" />     
  2차전지 관련 교욱듣기 : 배터리 세미나(Inter battery), 2차전지 엔지니어 직무역량 교육, 코멘토 2차전지 직무 부트캠프  
 
 * 팀으로 수행해야 할 것
